@@ -44,3 +44,5 @@ The board updates after every move, reflecting the new state.
 ---
 
 This is for when you want to have a terminal-based, simple but functional chess experience.
+## Authors
+Developed with ❤️ by [@dsdeshna](https://github.com/dsdeshna) & [@shaundcm](https://github.com/shaundcm)
